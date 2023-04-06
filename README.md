@@ -3,7 +3,7 @@
  
 ### Script
 ```lua
-local obfuscator =  
+local obfuscator = https://raw.githubusercontent.com/mrnotfunny/luaObfuscator/main/script
 
 obfuscator(
  [===[
