@@ -3,7 +3,8 @@
  
 ### Script
 ```lua
-local obfuscator = https://raw.githubusercontent.com/mrnotfunny/luaObfuscator/main/script
+local obfuscator =  loadstring(game:HttpGet("https://raw.githubusercontent.com/mrnotfunny/luaObfuscator/main/script"))()
+   
 
 obfuscator(
  [===[
