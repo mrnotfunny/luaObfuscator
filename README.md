@@ -1,2 +1,17 @@
-# luaObfuscator
-it is a lua obObfuscator made by  GhostDuckyy eduted by Mrnotfunny
+ ### when exacuted wait 10-15s then it be done 
+ your game might freeze/lag
+ 
+### Script
+```lua
+local obfuscator =  
+
+obfuscator(
+ [===[
+  --// Paste your source here
+  print("Hello World!")
+ ]===],
+ "callmexdrop", --// Custom Variable
+ "Protected" --// WaterMark
+)
+```
+ 
