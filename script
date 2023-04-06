@@ -10,9 +10,9 @@ function obfuscate(source,VarName,WaterMark)
     local ticks = tick()
 
     if typeof(WaterMark) == "string" and WaterMark ~= nil then
-        WM = "    "..tostring(WaterMark).." | Secure by Ghost-Ducky#7698 edited by callmexdrop#2505"
+        WM = "    "..tostring(WaterMark).." | Secure by  callmexdrop#2505"
     else
-        WM = "    ".."WaterMark".." | Secure by Ghost-Ducky#7698 edited by callmexdrop#2505"
+        WM = "    ".."WaterMark".." | Secure by  callmexdrop#2505"
     end
 
     WM = "--[[".."\n".. tostring(WM) .."\n".."]]--".."\n\n"
