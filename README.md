@@ -8,7 +8,7 @@ local obfuscator =  loadstring(game:HttpGet("https://raw.githubusercontent.com/m
 
 obfuscator(
  [===[
-  --// Paste your source here
+  --put you code hear not that hard
   print("Hello World!")
  ]===],
  "callmexdrop", --// Custom Variable
