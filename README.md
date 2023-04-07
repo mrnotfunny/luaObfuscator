@@ -1,6 +1,8 @@
  ### when exacuted wait 10-15s then it be done 
  your game might freeze/lag
  
+ ##code edited by callmexdrop
+ 
 ### Script
 ```lua
 local obfuscator =  loadstring(game:HttpGet("https://raw.githubusercontent.com/mrnotfunny/luaObfuscator/main/script"))()
@@ -12,7 +14,7 @@ obfuscator(
   print("Hello World!")
  ]===],
  "callmexdrop", --// Custom Variable
- "Protected" --// WaterMark
+ "Protected" 
 )
 ```
  
