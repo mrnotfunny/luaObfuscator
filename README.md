@@ -1,7 +1,7 @@
  ### when exacuted wait 10-15s then it be done 
  your game might freeze/lag
  
- ##code edited by callmexdrop
+ ###code edited by callmexdrop
  
 ### Script
 ```lua
