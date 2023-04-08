@@ -74,6 +74,11 @@ function obfuscate(source,VarName,WaterMark)
                 random_(math.random(50,150)),
             }
 
+
+             if debug.getinfo(1).currentline >2 then
+             while true do end
+             end
+             
             for i,v in pairs(topic) do
                 if i > highest then
                     highest = i
