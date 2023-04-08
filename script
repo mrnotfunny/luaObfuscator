@@ -1,6 +1,6 @@
 function obfuscate(source,VarName,WaterMark)
         warn("Started obfuscate")
-        local Variable = VarName or "callmexdrop"
+        local Variable = VarName or "monkeyballs"
         local WM
 
         if source == nil then
